@@ -220,7 +220,7 @@
     <section>
       <h2>1. Who We Are</h2>
       <p>Calendar App Desktop is an independent web application developed by Thanasis Koufos. The application is accessible at <a href="https://calendar-app-desktop.vercel.app" style="color:var(--neon);text-decoration:none;">calendar-app-desktop.vercel.app</a> and is maintained as a personal project.</p>
-      <p>Contact: <a href="mailto:thanasis20007@gmail.com" style="color:var(--neon);text-decoration:none;">thanasis20007@gmail.com</a></p>
+      <p>Contact: <a href="mailto:thanasis.koufos1@gmail.com" style="color:var(--neon);text-decoration:none;">thanasis.koufos1@gmail.com</a></p>
     </section>
 
     <section>
@@ -294,7 +294,7 @@
       <p>If you have any questions about this privacy policy or how your data is handled, please reach out:</p>
       <div class="contact-block">
         <p>Thanasis Koufos<br />
-        Email: <a href="mailto:thanasis20007@gmail.com">thanasis20007@gmail.com</a><br />
+        Email: <a href="mailto:thanasis.koufos1@gmail.com">thanasis.koufos1@gmail.com</a><br />
         Website: <a href="https://www.thanasis-codes.eu">thanasis-codes.eu</a></p>
       </div>
     </section>
