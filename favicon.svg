@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#060810"/>
+  <rect width="64" height="64" rx="12" fill="none" stroke="#00f5c8" stroke-width="2"/>
+  <!-- T -->
+  <text x="5" y="46" font-family="'Space Mono', monospace" font-weight="700" font-size="36" fill="none" stroke="#00f5c8" stroke-width="1.2" letter-spacing="-2">TC</text>
+  <text x="5" y="46" font-family="'Space Mono', monospace" font-weight="700" font-size="36" fill="#00f5c8" opacity="0.85" letter-spacing="-2">TC</text>
+  <!-- neon glow line bottom -->
+  <line x1="8" y1="54" x2="56" y2="54" stroke="#00f5c8" stroke-width="1.5" opacity="0.4"/>
+</svg>
